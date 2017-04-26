@@ -1,4 +1,4 @@
-package linearhasing;
+package StorageManager;
 
 import java.io.RandomAccessFile;
 
